@@ -1,3 +1,4 @@
-let x = 10
+let x = 20
+let y = "SJAKLHFKLSABVJKL\AJKL"
 
 console.log(x)
